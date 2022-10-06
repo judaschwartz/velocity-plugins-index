@@ -5,7 +5,8 @@
         "image": "urbancode/ucv-ext-blackduck:1.0.21",
         "notes": [
             "minor fix"
-        ]
+        ],
+        "supports": "4.1.0"
     },
     {
         "semver": "1.0.17",
@@ -13,7 +14,8 @@
         "image": "urbancode/ucv-ext-blackduck:1.0.17",
         "notes": [
             "User Access Key Related Changes"
-        ]
+        ],
+        "supports": "4.1.0"
     },
     {
         "semver": "1.0.4",
@@ -21,7 +23,8 @@
         "image": "urbancode/ucv-ext-blackduck:1.0.4",
         "notes": [
             "Added build URL to link scan results with VSM"
-        ]
+        ],
+        "supports": "4.1.0"
     },
     {
         "semver": "1.0.3",
@@ -29,6 +32,7 @@
         "image": "urbancode/ucv-ext-blackduck:1.0.3",
         "notes": [
             "Initial Release"
-        ]
+        ],
+        "supports": "4.1.0"
     }
 ]
