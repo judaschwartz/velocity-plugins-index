@@ -5,7 +5,8 @@
         "image": "urbancode/acc-ext-generator:1.0.35",
         "notes": [
             "Fixed issue with new create workflow resolver, 1.0.31"
-        ]
+        ],
+        "supports": "4.1.0"
     },
     {
         "semver": "1.0.31",
@@ -13,6 +14,15 @@
         "image": "urbancode/acc-ext-generator:1.0.31",
         "notes": [
             "Enable plugin in Velocity, 1.0.31"
+        ],
+        "supports": "4.0.0"
+    },
+    {
+        "semver": "1.0.26",
+        "date": "2022-08-18T21:58:56.765Z",
+        "image": "hclcr.io/accelerate/acc-ext-generator:1.0.26",
+        "notes": [
+            "Enable plugin for Velocity"
         ]
     }
 ]
